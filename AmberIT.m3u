@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Bangla)
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/LuZ78dxBZGcYwJRCT0KBO8TunNkpUWaI-DTY3ICuxTbi_r5cper4RK_xaOPW3L62hdNoLN0aqQj9O1bhODcZLA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://y.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi)
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oIE5KlQPm-rRYocQXq62JjdHovRfXwLreU5mQ6EpPxBFMmyrCEf8JAg0S6RPiaTuuo8cbAk_JzJssIqBPzKDmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://c/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Astro Cricket HD
 http://starare.liv:8080/live/tanveer2159175/003332159175/149012.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Willow Cricket HD
@@ -36,7 +36,7 @@ http://appsbiswas.live:8880/aftab965/9594r676tTZW/2931
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/27
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/channels_icon/90076756551.png" group-title="Kolkata Channel", Meem TV NY
-http://starare.liv:8080/live/tanveer2159175/003332159175/3806.ts
+http://starshare.live:8080/live/tanveer2159175/003332159175/3806.ts
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png" group-title="Bangla Channel", Channel I
