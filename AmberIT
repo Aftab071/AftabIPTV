@@ -118,7 +118,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://45.125.220.129:81/play/a011
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://45.125.220.129:81/play/a019
+http://xtv.ooo:8080/1234533/1234533/206308
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://45.125.220.129:81/play/a01c
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827813076.png" group-title="Hindi Channel", Star Gold 2
