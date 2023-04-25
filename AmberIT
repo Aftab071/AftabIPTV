@@ -14,9 +14,9 @@ https://starxlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/748791131.jpeg" group-title="IPTV by Aftab", Peace TV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u55ogSgsKDaWDnmDedD8OA
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-http://xtv.ooo:8080/1234533/1234533/245893
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245893
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
-http://xtv.ooo:8080/1234533/1234533/245898
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245898
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r68dT6vFUKNYJrWbE_yZtc
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
@@ -30,11 +30,11 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243776/748790990.png" group-title="Kolkata Channel", NANDAN Official
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18i4rIaO9orwnF8T7Y6ZyZZA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/142533
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18kxcCMDxNsTeRMompAW3cNA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/174747
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458158/794703916.png" group-title="Kolkata Channel", Sun Bangla
-http://xtv.ooo:8080/1234533/1234533/245906
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245906
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png" group-title="Bangla Channel", Channel I
@@ -46,9 +46,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Desh TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/747755550.jpg" group-title="Bangla Channel", Desh TV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18jsbJI_ibCGYmKjqK24ItnU
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745759769.jpeg" group-title="Bangla Channel", Ananda TV
-http://xtv.ooo:8080/1234533/1234533/245929
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245929
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747218031.jpg" group-title="Bangla Channel", Asian TV
-http://xtv.ooo:8080/1234533/1234533/245908
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245908
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747158052.png" group-title="Bangla Channel", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308212.gif" group-title="Bangla Channel", ATN News
@@ -98,7 +98,7 @@ http://tempamb.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456681.png" group-title="Bangla Channel", MyTV HD
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308190.png" group-title="Bangla Channel", Nagorik
-http://xtv.ooo:8080/1234533/1234533/245939
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245939
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308218.jpg" group-title="Bangla Channel", NTV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18sBVEebW_L-GSDCLx4jxoL0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491099/799773584.jpeg" group-title="Bangla Channel", DesheBideshe TV
@@ -118,57 +118,57 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ocfAEpyrWXZypFppkvr00A
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://xtv.ooo:8080/1234533/1234533/206307
+http://xtv.ooo:8080/Irfan6262/Irfan6268/206307
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827813076.png" group-title="Hindi Channel", Star Gold 2
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18viQFP1mKPfIsxUwK7ppLSA
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
-http://xtv.ooo:8080/1234533/1234533/109955
+http://xtv.ooo:8080/Irfan6262/Irfan6268/109955
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors HD
-http://xtv.ooo:8080/1234533/1234533/109947
+http://xtv.ooo:8080/Irfan6262/Irfan6268/109947
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Hindi Channel", Sony WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164818.png" group-title="Hindi Channel", Star Plus
-http://xtv.ooo:8080/1234533/1234533/109949
+http://xtv.ooo:8080/Irfan6262/Irfan6268/109949
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827743660.jpeg" group-title="Hindi Channel", &TV
-http://xtv.ooo:8080/1234533/1234533/109952
+http://xtv.ooo:8080/Irfan6262/Irfan6268/109952
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Kid's Zone", Nick
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18m0i4tsthh0BkLKFA-8KanA
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Zone", Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491104/799773548.png" group-title="Kid's Zone", Sonic
-http://xtv.ooo:8080/1234533/1234533/34011
+http://xtv.ooo:8080/Irfan6262/Irfan6268/34011
 #EXTINF: -1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kid's Zone", POGO
-http://xtv.ooo:8080/1234533/1234533/150483
+http://xtv.ooo:8080/Irfan6262/Irfan6268/150483
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="Kid's Zone", TOM & JERRY 24/7
-http://xtv.ooo:8080/1234533/1234533/329247
+http://xtv.ooo:8080/Irfan6262/Irfan6268/329247
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308202.jpg" group-title="Music Channel", Zoom Music
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pH6G0262h9FJOfucZllzQQ
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308204.png" group-title="Music Channel", 9XM
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rRpbiBjVRkWeAFX1_bAioU
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308225.jpg" group-title="Music Channel", Gaan Bangla
-http://xtv.ooo:8080/1234533/1234533/245935
+http://xtv.ooo:8080/Irfan6262/Irfan6268/245935
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3c2d7f90-d875-11ed-b8de-7d889d90b7b3/4602496/819051890.jpeg" group-title="Music Channel", Sangeet Bangla
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rsXGUiilunrl5GDPss3MSI
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music Channel", B4U Music
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r0el90POk9shf5vS0wJu2g
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Music Channel", MTV Beats
-http://xtv.ooo:8080/1234533/1234533/66273
+http://xtv.ooo:8080/Irfan6262/Irfan6268/66273
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799773592.jpeg" group-title="Music Channel", ATN Music
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music Channel", 9X Jalwa
-http://xtv.ooo:8080/1234533/1234533/66226
+http://xtv.ooo:8080/Irfan6262/Irfan6268/66226
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
-http://xtv.ooo:8080/1234533/1234533/206285
+http://xtv.ooo:8080/Irfan6262/Irfan6268/206285
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary And News", Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308208.png" group-title="Documentary And News", Al Jazeera HD
 http://tv.mototvlive.net:8880/live/sadi9606/12345987/1473.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745806418.png" group-title="Documentary And News", Animal Planet
-http://xtv.ooo:8080/1234533/1234533/206282
+http://xtv.ooo:8080/Irfan6262/Irfan6268/206282
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456691.png" group-title="Documentary And News", CGTN
 http://tv.mototvlive.net:8880/live/sadi9606/12345987/2341.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456725.jpg" group-title="Documentary And News", DW
@@ -198,23 +198,23 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18nUO20q2BjnP5exvq7icXeg
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783838.jpeg" group-title="Sports Channel", Star Sports Select 1
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18rTvQMr0SMZ7U0KvTTW-dq8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745785582.jpeg" group-title="Sports Channel", Star Sports Select 2
-http://xtv.ooo:8080/1234533/1234533/167579
+http://xtv.ooo:8080/Irfan6262/Irfan6268/167579
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792716833.jpeg" group-title="Sports Channel", Viaplay
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792716835.png" group-title="Sports Channel", Sports 18
-http://xtv.ooo:8080/1234533/1234533/302600
+http://xtv.ooo:8080/Irfan6262/Irfan6268/302600
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792918897.png" group-title="Sports Channel", PTV Sports
 http://180.178.188.152:8000/play/a075
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337588.jpeg" group-title="Sports Channel", Sky Sports (Premier League)
-http://xtv.ooo:8080/1234533/1234533/222625
+http://xtv.ooo:8080/Irfan6262/Irfan6268/222625
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649254/827848673.jpeg" group-title="Sports Channel", Sky Sports Main Event
-http://xtv.ooo:8080/1234533/1234533/222624
+http://xtv.ooo:8080/Irfan6262/Irfan6268/222624
 #EXTINF: -1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports Channel", Willow Cricket HD
-http://xtv.ooo:8080/1234533/1234533/167583
+http://xtv.ooo:8080/Irfan6262/Irfan6268/167583
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337590.png" group-title="Sports Channel", ESPN
-http://xtv.ooo:8080/1234533/1234533/222278
+http://xtv.ooo:8080/Irfan6262/Irfan6268/222278
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/795215122.jpeg" group-title="Sports Channel", Sky Sports Cricket
-http://xtv.ooo:8080/1234533/1234533/167594
+http://xtv.ooo:8080/Irfan6262/Irfan6268/167594
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/795219560.jpeg" group-title="Sports Channel", BT Sports 1
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18vhbMQVIOnQ8T5afjTk_pFg
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544149/809757691.png" group-title="Sports Channel", BT Sports 2
@@ -222,7 +222,7 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18iecuhZMaXYh6RPU96vCJd0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491102/799775277.png" group-title="Sports Channel", Super Sports Cricket
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lnhiV7EdKU1Qhj-9CmrHXM
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/747755514.jpeg" group-title="Sports Channel", Eurosports
-http://xtv.ooo:8080/1234533/1234533/167585
+http://xtv.ooo:8080/Irfan6262/Irfan6268/167585
 #EXTINF: -1 tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Sports Channel", BEIN SPORTS 1 HD (English)
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u9n7nnlf41obrgmBsUuNqk
 #EXTINF: -1 tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6591.1491350441.png" group-title="Sports Channel", BEIN SPORTS 2 HD
