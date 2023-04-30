@@ -30,9 +30,9 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243776/748790990.png" group-title="Kolkata Channel", NANDAN Official
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
-http://starshare.live:8080/live/Arish/Arish/435.ts
+https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/833072385.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://starshare.live:8080/live/Arish/Arish/198.ts
+https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/833167202.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458158/794703916.png" group-title="Kolkata Channel", Sun Bangla
 http://xtv.ooo:8080/1234533/1234533/245906
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
