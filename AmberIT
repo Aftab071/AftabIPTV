@@ -16,7 +16,7 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u55ogSgsKDaWDnmDedD8OA
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
 http://xtv.ooo:8080/1234533/1234533/245893
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
-http://xtv.ooo:8080/1234533/1234533/245898
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r68dT6vFUKNYJrWbE_yZtc
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
@@ -32,7 +32,7 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
 https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/833072385.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+http://xtv.ooo:8080/1234533/1234533/245898
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458158/794703916.png" group-title="Kolkata Channel", Sun Bangla
 http://xtv.ooo:8080/1234533/1234533/245906
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
@@ -118,7 +118,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ocfAEpyrWXZypFppkvr00A
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://xtv.ooo:8080/1234533/1234533/206307
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827813076.png" group-title="Hindi Channel", Star Gold 2
@@ -190,7 +190,7 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports Channel", Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773162.png" group-title="Sports Channel", Tsports
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18l3IzRXGVnCOlgiqlsEwkPM
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773847.jpeg" group-title="Sports Channel", Star Sports 1 (Hindi)
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18sOFPtygfN_9XLZus4i47Us
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783837.jpeg" group-title="Sports Channel", Star Sports 2
