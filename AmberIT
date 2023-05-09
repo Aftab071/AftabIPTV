@@ -7,10 +7,10 @@ https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallba
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL Match 2 (Bangla)
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
-https://starxlive/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Live Match 6
-https://starxlive/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Bangladesh vs Ireland (Willow Xtra)
+http://on.deflix.xyz:8880/live/shimul10/shimul4890/13636.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Bangladesh vs Ireland (Fancode)
+https://fifabangladesh.tk/FAN/play.m3u8?id=IsZdaDcISiSYRYORqq2cMw
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/748791131.jpeg" group-title="IPTV by Aftab", Peace TV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u55ogSgsKDaWDnmDedD8OA
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
