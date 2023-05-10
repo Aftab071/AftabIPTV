@@ -10,15 +10,15 @@ https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_HD_IDC_AND/Fallba
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Bangladesh vs Ireland (Willow Xtra)
 http://on.deflix.xyz:8880/live/shimul10/shimul4890/13636.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Bangladesh vs Ireland (Fancode)
-https://fifabangladesh.tk/FAN/play.m3u8?id=IsZdaDcISiSYRYORqq2cMw
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/748791131.jpeg" group-title="IPTV by Aftab", Peace TV
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u55ogSgsKDaWDnmDedD8OA
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-http://opplextv.cyou:8080/live/renshad20221/55667788/245893.ts
+https://madplay.live/jiotv/app/live/1977/null/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r68dT6vFUKNYJrWbE_yZtc
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18imG-zI-K3JlRYE1AtiAwTw
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308192.jpeg" group-title="Kolkata Channel", Colors Bangla HD
@@ -118,7 +118,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ocfAEpyrWXZypFppkvr00A
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+https://madplay.live/jiotv/app/live/165/null/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18lHGZjgniL7P7YmpjXL7vV4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827813076.png" group-title="Hindi Channel", Star Gold 2
