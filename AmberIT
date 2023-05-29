@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", IPL Match 1 (Hindi)
-https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8
+https://m3u-editor.com/serve/iptvbyaftab-ms/854222339.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL Match 1 (Bangla)
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", IPL Match 2 (Hindi)
-https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8
+https://m3u-editor.com/serve/iptvbyaftab-ms/854222339.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL Match 2 (Bangla)
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
@@ -200,7 +200,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773162.png" group-title="Sports Channel", Tsports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773847.jpeg" group-title="Sports Channel", Star Sports 1 (Hindi)
-http://opplex.tv:8080/live/24680/24680/109986.m3u8
+https://m3u-editor.com/serve/iptvbyaftab-ms/854222339.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783837.jpeg" group-title="Sports Channel", Star Sports 2
 http://sansat.net:25461/live/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93726.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783838.jpeg" group-title="Sports Channel", Star Sports Select 1
