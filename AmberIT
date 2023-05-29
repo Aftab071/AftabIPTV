@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", IPL Match 1 (Hindi)
-https://m3u-editor.com/serve/iptvbyaftab-ms/854222339.m3u8
+https://m3u-editor.com/serve/iptvbyaftab-ms/854222153.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL Match 1 (Bangla)
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", IPL Match 2 (Hindi)
-https://m3u-editor.com/serve/iptvbyaftab-ms/854222339.m3u8
+https://m3u-editor.com/serve/iptvbyaftab-ms/854222153.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL Match 2 (Bangla)
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
