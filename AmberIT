@@ -3,18 +3,14 @@
 http://10.99.99.2/hls/qurqntv.m3u8
 #EXTINF: -1 group-title="IPTV by Aftab", Madani Channel
 http://10.99.99.2/hls/madani.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla SD
-http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=5c71e727856413b5b803ac2aa637c7eeaac9cf65-2c5e41357883765a3e5efd5ca3c8850b-1692126077-1692115277
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha SD
-http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8?token=530d0e91768b12e48d47eb4dbfe87a6066a41abe-991c2715de0697bd58e4c212bb34df56-1692126096-1692115296
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
+http://10.99.99.2/hls/zeebanglahd.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
+http://10.99.99.2/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://10.99.99.2/hls/jalshamovies.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
 http://10.99.99.2/hls/zee-bangla-cinema.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD (BDIX)
-http://10.99.99.2/hls/zeebanglahd.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD (BDIX)
-http://10.99.99.2/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308192.jpeg" group-title="Kolkata Channel", Colors Bangla HD
 http://10.99.99.2/hls/colorsbangla.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745806419.png" group-title="Kolkata Channel", Sony Aath
@@ -24,7 +20,7 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458158/794703916.png" group-title="Kolkata Channel", Sun Bangla
 http://10.99.99.2/hls/sunbangla.m3u8
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
-https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
+http://10.99.99.2/hls/enterr10.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eeed7220-12c4-11ee-8f2f-a3b4d52ec527/4930989/872010559.jpeg" group-title="Kolkata Channel", Colors Bangla Cinema
 http://10.99.99.2/hls/colore-bangla-cinema.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308216.png" group-title="Bangla Channel", Channel 24
@@ -87,10 +83,6 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
 http://10.99.99.2/hls/sony-maxhd.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel", Sony MAX2
-http://opplex.tv:8080/live/1236547890/1236547890/206317.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Hindi Channel", Sony Sab HD
-http://opplex.tv:8080/live/1236547890/1236547890/66174.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Channel", Sony Entertainment
 http://10.99.99.2/hls/sonyen.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Hindi Channel", Sony Pix
@@ -100,9 +92,7 @@ http://10.99.99.2/hls/zeetv.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
 http://10.99.99.2/hls/zeecinemahd.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
-http://opplex.tv:8080/live/1236547890/1236547890/66177.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/74eebca0-e1bc-11ed-82c9-e7cb720ca6f3/4649250/827813076.png" group-title="Hindi Channel", Star Gold 2
-http://opplex.tv:8080/live/1236547890/1236547890/106133.m3u8
+http://10.99.99.2/hls/stargold.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
 http://10.99.99.2/hls/andpictures.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
@@ -111,46 +101,26 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 http://10.99.99.2/hls/colore-tv-hd.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164818.png" group-title="Hindi Channel", Star Plus
 http://10.99.99.2/hls/starplus.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eeed7220-12c4-11ee-8f2f-a3b4d52ec527/4930991/872010609.png" group-title="Hindi Channel", &TV
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/16964.m3u8
-#EXTINF: -1 group-title="Hindi Channel", Colors Cineplex
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eeed7220-12c4-11ee-8f2f-a3b4d52ec527/4930991/872010609.png" group-title="Hindi Channel", Colors Cineplex
 http://10.99.99.2/hls/colorscineplex.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Kid's Zone", Nick
 http://10.99.99.2/hls/nick.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Zone", Sony YAY
-http://10.99.99.2/hls/dis-kid.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308202.jpg" group-title="Music Channel", Zoom Music
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/192069.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308204.png" group-title="Music Channel", 9XM
-http://10.99.99.2/hls/9xm.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308225.jpg" group-title="Music Channel", Gaan Bangla
-http://15.1.5.18:8082/GaanBangla/tracks-v1a1/mono.m3u8
+http://10.99.99.2/hls/sonyway.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3c2d7f90-d875-11ed-b8de-7d889d90b7b3/4602496/819051890.jpeg" group-title="Music Channel", Sangeet Bangla
 http://10.99.99.2/hls/sangeetbangla.m3u8
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music Channel", B4U Music
-http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18r0el90POk9shf5vS0wJu2g
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Music Channel", MTV Beats
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/193068.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799773592.jpeg" group-title="Music Channel", ATN Music
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music Channel", 9X Jalwa
-http://15.1.5.10:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Music Channel", Bangla Talkis
-http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
-http://opplex.tv:8080/live/24680/24680/109977.m3u8
+http://10.99.99.2/hls/ngohd.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary And News", Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308208.png" group-title="Documentary And News", Al Jazeera HD
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/193553.m3u8
+http://10.99.99.2/hls/bbcearth.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745806418.png" group-title="Documentary And News", Animal Planet
-http://103.141.2.37:25461/live/web/web/566.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456691.png" group-title="Documentary And News", CGTN
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/297388.m3u8
+http://10.99.99.2/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456725.jpg" group-title="Documentary And News", DW
-http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241137/747218049.jpg" group-title="Documentary And News", Discovery HD
-https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
+http://10.99.99.2/hls/discovery.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243780/748791148.png" group-title="Documentary And News", CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458162/794693440.png" group-title="Documentary And News", BBC NEWS
