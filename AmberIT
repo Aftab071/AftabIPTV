@@ -4,7 +4,7 @@ http://10.99.99.2/hls/qurqntv.m3u8
 #EXTINF: -1 group-title="IPTV by Aftab", Madani Channel
 http://10.99.99.2/hls/madani.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-http://10.99.99.2/hls/zeebanglahd.m3u8
+http://172.16.29.250/hls/zeebanglahd.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://10.99.99.2/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
