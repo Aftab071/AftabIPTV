@@ -3,6 +3,8 @@
 http://10.99.99.2/hls/qurqntv.m3u8
 #EXTINF: -1 group-title="IPTV by Aftab", Madani Channel
 http://10.99.99.2/hls/madani.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/8c49d4f0-5af0-11ee-9760-5b4952a90164/5339177/940408041.jpeg" group-title="IPTV by Aftab", Priyotoma
+https://m.jatikaj792.workers.dev/0:/Priyotoma%202023%20HD/Priyotoma.2023.1080p.[FreeDriveMovie.com].Bioscope.WEB-DL.AAC.2.0.x264.mp4
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
 http://10.99.99.2/hls/zeebanglahd.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
