@@ -25,6 +25,10 @@ http://10.99.99.2/hls/sunbangla.m3u8
 http://10.99.99.2/hls/enterr10.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/eeed7220-12c4-11ee-8f2f-a3b4d52ec527/4930989/872010559.jpeg" group-title="Kolkata Channel", Colors Bangla Cinema
 http://10.99.99.2/hls/colore-bangla-cinema.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD (Backup)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha (Backup)
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/95769.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308216.png" group-title="Bangla Channel", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308210.png" group-title="Bangla Channel", DBC News
