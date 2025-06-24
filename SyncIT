@@ -1,45 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Tsports HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Tsports HD
-http://172.16.29.2:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Super Laliga HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Super Laliga HD
-http://172.16.29.2:8090/hls/superlaligahd.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Sky Sports Cricket
-http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Duronto" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Bangladeshi Channels",Duronto
-http://172.16.29.2:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Discovery Bangla" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Documentry",Discovery Bangla
-http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="& Picture" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",& Picture
-http://172.16.29.2:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="ARY Digital " tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",ARY Digital 
-http://172.16.29.2:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="9XM" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",9XM
-http://172.16.29.2:8090/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Al Jazeera" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Documentry",Al Jazeera
-http://172.16.29.2:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Bangladeshi Channels",Jamuna TV
-http://172.16.29.2:8090/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Zee Bangla HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Kolkata Bangla",Zee Bangla HD
-http://172.16.29.2:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Kolkata Bangla",Star Jalsha HD
-http://172.16.29.2:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Sony Atth" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Kolkata Bangla",Sony Atth
-http://172.16.29.2:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Enter10 Bangla" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Kolkata Bangla",Enter10 Bangla
-http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Jalsha Movie" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Kolkata Bangla",Jalsha Movie
-http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Zee TV HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",Zee TV HD
-http://172.16.29.2:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Star Gold HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",Star Gold HD
-http://172.16.29.2:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Colors HD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Hindi",Colors HD
-http://172.16.29.2:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",PTV Sports
-http://172.16.29.2:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Sony Ten 2" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Sony Ten 2
-http://172.16.29.2:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Sony Ten 5" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Sony Ten 5
-http://172.16.29.2:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Star Sports 1" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Sports",Star Sports 1
-http://172.16.29.2:8090/hls/starsports1hd.m3u8
+#EXTINF:-1 tvg-id="jamuna" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co/XFzJZVr/jamuna.png" group-title="Bangladeshi Channels",Jamuna TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 tvg-id="atnbangla" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co/nm7tLZ6/atnbangla.png" group-title="Bangladeshi Channels",ATN Bangla
+http://stvlive.net:8080/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi TV" tvg-logo="https://i.ibb.co/xY94FR5/boishakhi.png" group-title="Bangladeshi Channels",Boishakhi TV
+http://stvlive.net:8080/boishakhi/index.m3u8
+#EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://i.ibb.co/p3Ncgff/channeli.png" group-title="Bangladeshi Channels",Channel i
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 tvg-id="dbc" tvg-name="DBC News" tvg-logo="https://i.ibb.co/sqfjNKh/dbc.png" group-title="Bangladeshi Channels",DBC News
+http://stvlive.net:8080/dbc/index.m3u8
+#EXTINF:-1 tvg-id="ekattor" tvg-name="Ekattor TV" tvg-logo="https://i.ibb.co/TmhMSCC/ekattor.png" group-title="Bangladeshi Channels",Ekattor TV
+http://stvlive.net:8080/ekattor/index.m3u8
+#EXTINF:-1 tvg-id="maasranga" tvg-name="Maasranga" tvg-logo="https://i.ibb.co/9qS6bkk/maasranga.png" group-title="Bangladeshi Channels",Maasranga
+http://stvlive.net:8080/maasranga/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://i.ibb.co/KhKwzv0/ntv.png" group-title="Bangladeshi Channels",NTV
+http://stvlive.net:8080/ntv/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.ibb.co/GtkNS3S/rtv.png" group-title="Bangladeshi Channels",RTV
+http://stvlive.net:8080/rtv/index.m3u8
+#EXTINF:-1 tvg-id="somoy" tvg-name="Somoy TV" tvg-logo="https://i.ibb.co/wdTphqT/somoytv.png" group-title="Bangladeshi Channels",Somoy TV
+http://stvlive.net:8080/somoy/index.m3u8
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://i.ibb.co/k1qqFSX/tsports.png" group-title="Bangladeshi Channels",T Sports
+http://103.175.242.10:8080/tsports1/index.m3u8
