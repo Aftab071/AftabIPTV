@@ -17,9 +17,7 @@ http://stvlive.net:8080/maasranga/index.m3u8
 http://stvlive.net:8080/ntv/index.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="Bangladeshi Channels",RTV
 http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Deepto 1" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto 1
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-name="Deepto 2" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto 2
+#EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg" group-title="Bangladeshi Channels",GTV
 http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
@@ -75,8 +73,6 @@ http://103.175.242.10:8080/jalshamovies/index.m3u8
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Kalkata Channel",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla
-http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla HD
 http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-name="Bangla+" tvg-logo="" group-title="Kalkata Channel",Bangla+
