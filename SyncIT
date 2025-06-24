@@ -44,11 +44,11 @@ https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 2" group-title="Sports Channel",Sony Sports 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 3" group-title="Sports Channel",Sony Sports 3
-https://tataplay.slivcdn.com/hls/live/2020434/TEN3HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 4" group-title="Sports Channel",Sony Sports 4
-https://tataplay.slivcdn.com/hls/live/2020434/TEN4HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 5" group-title="Sports Channel",Sony Sports 5
-https://tataplay.slivcdn.com/hls/live/2020434/TEN5HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" group-title="Sports Channel",Star Sports 1
 http://103.175.242.10:8080/starsports1/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2" group-title="Sports Channel",Star Sports 2
