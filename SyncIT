@@ -1,23 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jamuna" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co/XFzJZVr/jamuna.png" group-title="Bangladeshi Channels",Jamuna TV
+#EXTINF:-1 tvg-name="Jamuna TV" group-title="Bangladeshi Channels",Jamuna TV
 http://stvlive.net:8080/jamuna/index.m3u8
-#EXTINF:-1 tvg-id="atnbangla" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co/nm7tLZ6/atnbangla.png" group-title="Bangladeshi Channels",ATN Bangla
+#EXTINF:-1 tvg-name="Atn Bangla" group-title="Bangladeshi Channels",Atn Bangla
 http://stvlive.net:8080/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi TV" tvg-logo="https://i.ibb.co/xY94FR5/boishakhi.png" group-title="Bangladeshi Channels",Boishakhi TV
+#EXTINF:-1 tvg-name="Boishakhi" group-title="Bangladeshi Channels",Boishakhi
 http://stvlive.net:8080/boishakhi/index.m3u8
-#EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://i.ibb.co/p3Ncgff/channeli.png" group-title="Bangladeshi Channels",Channel i
+#EXTINF:-1 tvg-name="Channel I" group-title="Bangladeshi Channels",Channel I
 http://stvlive.net:8080/channeli/index.m3u8
-#EXTINF:-1 tvg-id="dbc" tvg-name="DBC News" tvg-logo="https://i.ibb.co/sqfjNKh/dbc.png" group-title="Bangladeshi Channels",DBC News
+#EXTINF:-1 tvg-name="DBC News" group-title="Bangladeshi Channels",DBC News
 http://stvlive.net:8080/dbc/index.m3u8
-#EXTINF:-1 tvg-id="ekattor" tvg-name="Ekattor TV" tvg-logo="https://i.ibb.co/TmhMSCC/ekattor.png" group-title="Bangladeshi Channels",Ekattor TV
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="Bangladeshi Channels",Ekattor TV
 http://stvlive.net:8080/ekattor/index.m3u8
-#EXTINF:-1 tvg-id="maasranga" tvg-name="Maasranga" tvg-logo="https://i.ibb.co/9qS6bkk/maasranga.png" group-title="Bangladeshi Channels",Maasranga
+#EXTINF:-1 tvg-name="Maasranga" group-title="Bangladeshi Channels",Maasranga
 http://stvlive.net:8080/maasranga/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://i.ibb.co/KhKwzv0/ntv.png" group-title="Bangladeshi Channels",NTV
+#EXTINF:-1 tvg-name="NTV" group-title="Bangladeshi Channels",NTV
 http://stvlive.net:8080/ntv/index.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.ibb.co/GtkNS3S/rtv.png" group-title="Bangladeshi Channels",RTV
-http://stvlive.net:8080/rtv/index.m3u8
-#EXTINF:-1 tvg-id="somoy" tvg-name="Somoy TV" tvg-logo="https://i.ibb.co/wdTphqT/somoytv.png" group-title="Bangladeshi Channels",Somoy TV
-http://stvlive.net:8080/somoy/index.m3u8
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://i.ibb.co/k1qqFSX/tsports.png" group-title="Bangladeshi Channels",T Sports
+#EXTINF:-1 tvg-name="RTV" group-title="Bangladeshi Channels",RTV
+http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Deepto 1" group-title="Bangladeshi Channels",Deepto 1
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="Deepto 2" group-title="Bangladeshi Channels",Deepto 2
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-name="GTV" group-title="Bangladeshi Channels",GTV
+http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangladeshi Channels",Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+#EXTINF:-1 tvg-name="Ekushe ETV" group-title="Bangladeshi Channels",Ekushe ETV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-name="Movie Bangla" group-title="Bangladeshi Channels",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-name="My TV" group-title="Bangladeshi Channels",My TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-name="SATV" group-title="Bangladeshi Channels",SATV
+http://38.96.178.201/live/SATV/index.m3u8
+#EXTINF:-1 tvg-name="Tsports" group-title="Sports Channel",Tsports
 http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-name="And Picture" group-title="Hindi Channel",And Picture
+http://stvlive.net:8080/andpicture/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-name="Colors HD" group-title="Hindi Channel",Colors HD
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max" group-title="Hindi Channel",Sony Max
+http://stvlive.net:8080/sonymax/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD" group-title="Hindi Channel",Star Gold HD
+http://stvlive.net:8080/stargold/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Channel",Sony Max 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-name="Sangeet Bangla" group-title="Kalkata Channel",Sangeet Bangla
+http://stvlive.net:8080/sbangla/index.m3u8
+#EXTINF:-1 tvg-name="Sony Aath" group-title="Kalkata Channel",Sony Aath
+http://stvlive.net:8080/sonyaath/index.m3u8
+#EXTINF:-1 tvg-name="Jalsha Movies" group-title="Kalkata Channel",Jalsha Movies
+http://103.175.242.10:8080/jalshamovies/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata Channel",Star Jalsha
+http://103.175.242.10:8080/starjalsha/index.m3u8
+#EXTINF:-1 tvg-name="Me TV" group-title="Kalkata Channel",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
