@@ -4,7 +4,7 @@ http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 tvg-name="Atn Bangla" group-title="Bangladeshi Channels",Atn Bangla
 http://stvlive.net:8080/atnbangla/index.m3u8
 #EXTINF:-1 tvg-name="Boishakhi" group-title="Bangladeshi Channels",Boishakhi
-http://stvlive.net:8080/boishakhi/index.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="Channel I" group-title="Bangladeshi Channels",Channel I
 http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 tvg-name="DBC News" group-title="Bangladeshi Channels",DBC News
