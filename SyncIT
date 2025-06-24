@@ -33,8 +33,26 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-name="SATV" group-title="Bangladeshi Channels",SATV
 http://38.96.178.201/live/SATV/index.m3u8
+#EXTINF:-1 tvg-name="Independent TV" group-title="Bangladeshi Channels",Independent TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Banglavision" group-title="Bangladeshi Channels",Banglavision
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tsports" group-title="Sports Channel",Tsports
 http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 1" group-title="Sports Channel",Sony Sports 1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 2" group-title="Sports Channel",Sony Sports 2
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 3" group-title="Sports Channel",Sony Sports 3
+https://tataplay.slivcdn.com/hls/live/2020434/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 4" group-title="Sports Channel",Sony Sports 4
+https://tataplay.slivcdn.com/hls/live/2020434/TEN4HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 5" group-title="Sports Channel",Sony Sports 5
+https://tataplay.slivcdn.com/hls/live/2020434/TEN5HD/master.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1" group-title="Sports Channel",Star Sports 1
+http://103.175.242.10:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2" group-title="Sports Channel",Star Sports 2
+http://103.175.242.10:8080/starsports2/index.m3u8
 #EXTINF:-1 tvg-name="And Picture" group-title="Hindi Channel",And Picture
 http://stvlive.net:8080/andpicture/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-name="Colors HD" group-title="Hindi Channel",Colors HD
@@ -45,6 +63,8 @@ http://stvlive.net:8080/sonymax/index.m3u8
 http://stvlive.net:8080/stargold/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Channel",Sony Max 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-name="Sony HD" group-title="Hindi Channel",Sony HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-name="Sangeet Bangla" group-title="Kalkata Channel",Sangeet Bangla
 http://stvlive.net:8080/sbangla/index.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" group-title="Kalkata Channel",Sony Aath
@@ -55,3 +75,11 @@ http://103.175.242.10:8080/jalshamovies/index.m3u8
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-name="Me TV" group-title="Kalkata Channel",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla" group-title="Kalkata Channel",Zee Bangla
+http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 tvg-name="Bangla+" group-title="Kalkata Channel",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-name="Sun Bangla" group-title="Kalkata Channel",Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sanonda TV" group-title="Kalkata Channel",Sanonda TV
+https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
