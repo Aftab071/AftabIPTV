@@ -75,7 +75,9 @@ http://103.175.242.10:8080/jalshamovies/index.m3u8
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Kalkata Channel",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="" group-title="Kalkata Channel",Zee Bangla
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla
+http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla HD
 http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-name="Bangla+" tvg-logo="" group-title="Kalkata Channel",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
