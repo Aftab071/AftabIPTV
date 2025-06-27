@@ -47,12 +47,12 @@ http://stvlive.net:8080/sbangla/index.m3u8
 http://stvlive.net:8080/sonyaath/index.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb20190806073703" group-title="Kalkata Channel",Jalsha Movies
 http://103.175.242.10:8080/jalshamovies/index.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg" group-title="Kalkata Channel",Star Jalsha
-http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Kalkata Channel",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla HD
 http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="" group-title="Kalkata Channel",Star Jalsha HD
+http://188.241.219.189/live/Jahid2025/0470070309/198.m3u8?token=ShJcU0BbQQNHClZcDlICXAEEBVNeB1JXAwdXUVFSAAcHUVIHBAJRDlUbGBpEF0dcWF1vWQIXXlAIWk4VEBdWQG5ZUBAJEVQJUA4GABVPF01QXVUSXAVIQ0ELBhVfRgAHCAICBAcRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAB1sPRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAVEAXQkWRQ==
 #EXTINF:-1 tvg-name="Bangla+" tvg-logo="" group-title="Kalkata Channel",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="" group-title="Kalkata Channel",Sun Bangla
