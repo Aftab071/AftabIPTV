@@ -60,4 +60,30 @@ https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Sanonda TV" tvg-logo="" group-title="Kalkata Channel",Sanonda TV
 https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Tsports" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="Sports Channel",Tsports
-http://peer19.roarzone.info:8080/roarzone/bk
+http://peer19.roarzone.info:8080/roarzone/bk/102/tracks-v1a1/mono.m3u8?token=d2d3838b96f71053598ea924b6443250f3f167b1-177afb6658165d39d01166f9d55bc208-1751194165-1751183365
+#EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports Channel",Sony Sports 1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports Channel",Sony Sports 2
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 3" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports Channel",Sony Sports 3
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports Channel",Sony Sports 4
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports Channel",Sony Sports 5
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png" group-title="Sports Channel",Star Sports 1
+http://103.175.242.10:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png" group-title="Sports Channel",Star Sports 2
+http://103.175.242.10:8080/starsports2/index.m3u8
+#EXTINF:-1 tvg-name="And Picture" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png" group-title="Hindi Channel",And Picture
+http://103.175.242.10:8080/andpicture/index.m3u8
+#EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png" group-title="Hindi Channel",Colors HD
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Hindi Channel",Sony Max
+http://stvlive.net:8080/sonymax/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png" group-title="Hindi Channel",Star Gold HD
+http://peer19.roarzone.info:8080/roarzone/bk/72/tracks-v1a1/mono.m3u8?token=7c724b4bd29ace79ddf873d6a88f15adbb072bfb-4401a6bb0d4b7162a81d10ed8f5cec8e-1751193159-1751182359
+#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel",Sony Max 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="" group-title="Hindi Channel",Sony HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
