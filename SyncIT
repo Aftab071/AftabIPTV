@@ -22,11 +22,11 @@ http://peer19.roarzone.info:8080/roarzone/bk/51/tracks-v1a1/mono.m3u8?token=f199
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg" group-title="Bangladeshi Channels",NTV
 http://peer19.roarzone.info:8080/roarzone/bk/54/tracks-v1a1/mono.m3u8?token=b2c1b1b5638624dd0b6d6f16e2b831a713f16ac0-2126a2c6cf196f97e806230335b26523-1751195957-1751185157
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="Bangladeshi Channels",RTV
-http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/14/tracks-v1a1/mono.m3u8?token=0f1cf1d330f058094e8e64508451d3d4c91b1edf-0239b6465fb92ef1c1fc6de2de7c7f95-1751199339-1751188539
 #EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg" group-title="Bangladeshi Channels",GTV
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/1/tracks-v1/index.fmp4.m3u8?token=dfeba524e1f03d15c538c4636ca83e3130322382-be27ba72878717ddccaa57d2b0e3787d-1751199379-1751188579
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg" group-title="Bangladeshi Channels",Ekhon TV
 http://38.96.178.201/live/EkhonTV/index.m3u8
 #EXTINF:-1 tvg-name="Ekushe ETV" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg" group-title="Bangladeshi Channels",Ekushe ETV
@@ -40,19 +40,19 @@ http://38.96.178.201/live/SATV/index.m3u8
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg" group-title="Bangladeshi Channels",Independent TV
 http://peer19.roarzone.info:8080/roarzone/bk/12/tracks-v1a1/mono.m3u8?token=78b96975a25f29a55c5a4df3b0eb21349c55c7a5-5737a9d9e6e0296dea75e132b9778f6c-1751196602-1751185802
 #EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg" group-title="Bangladeshi Channels",Banglavision
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI6/banglav000.stream/playlist.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/3/tracks-v1a1/mono.m3u8?token=85d695ae57ee8ad139926c4ca068adc9456ec9ab-3d159bdb490a69f4a2d41439af504545-1751199469-1751188669
 #EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Kalkata Channel",Sangeet Bangla
 http://stvlive.net:8080/sbangla/index.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Kalkata Channel",Sony Aath
-http://stvlive.net:8080/sonyaath/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/33/tracks-v1a1/mono.m3u8?token=51a65c51d48737857dc175ad6743735c056dc00b-63cb970656bb80589dc57ea89ed96c58-1751199525-1751188725
 #EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb20190806073703" group-title="Kalkata Channel",Jalsha Movies
-http://103.175.242.10:8080/jalshamovies/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/31/tracks-v1a1/mono.m3u8?token=b50a0f4e3f43bf46c5051ac988df1043d4ad3e79-e73164d2dbaa03686c3885d420144944-1751199584-1751188784
 #EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Kalkata Channel",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla HD
-http://stvlive.net:8080/zeebangla/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/34/tracks-v1a1/mono.m3u8?token=05509ba406d0a1da0d4b84c6b981ac77445c6c53-3f017a721b41e4df719a3987f4792226-1751199647-1751188847
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="" group-title="Kalkata Channel",Star Jalsha HD
-http://188.241.219.189/live/Jahid2025/0470070309/198.m3u8?token=ShJcU0BbQQNHClZcDlICXAEEBVNeB1JXAwdXUVFSAAcHUVIHBAJRDlUbGBpEF0dcWF1vWQIXXlAIWk4VEBdWQG5ZUBAJEVQJUA4GABVPF01QXVUSXAVIQ0ELBhVfRgAHCAICBAcRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAB1sPRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAVEAXQkWRQ==
+http://peer19.roarzone.info:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=82d434bf2e4c4e72832b2d7c6836ca3c95f03236-c5b02a789e8f9deec682e1aeb0eb09b7-1751199750-1751188950
 #EXTINF:-1 tvg-name="Bangla+" tvg-logo="" group-title="Kalkata Channel",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="" group-title="Kalkata Channel",Sun Bangla
