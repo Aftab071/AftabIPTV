@@ -16,11 +16,11 @@ http://peer19.roarzone.info:8080/roarzone/bk/6/tracks-v1a1/mono.m3u8?token=49c39
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladeshi Channels",DBC News
 http://peer19.roarzone.info:8080/roarzone/bk/7/tracks-v1a1/mono.m3u8?token=9ea9ba46038bc92875127ecb6fff1f530867020e-841b3d8d162224eb609ace8b3be83670-1751194588-1751183788
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/JzDLh7pB/Ekattor.jpg" group-title="Bangladeshi Channels",Ekattor TV
-http://stvlive.net:8080/ekattor/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/11/tracks-v1a1/mono.m3u8?token=d4db89dd504ab70f9a40038ce5a969dd83a5b383-6e7ba5901c440670b0b68d9e4baf82e7-1751194613-1751183813
 #EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg" group-title="Bangladeshi Channels",Maasranga
 http://peer19.roarzone.info:8080/roarzone/bk/51/tracks-v1a1/mono.m3u8?token=f199cfb98ea57d9777a709b61754e0b219accb9f-deabe2a0262dbccebc70e240e50f5f35-1751194637-1751183837
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg" group-title="Bangladeshi Channels",NTV
-http://stvlive.net:8080/ntv/index.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/54/tracks-v1a1/mono.m3u8?token=b2c1b1b5638624dd0b6d6f16e2b831a713f16ac0-2126a2c6cf196f97e806230335b26523-1751195957-1751185157
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="Bangladeshi Channels",RTV
 http://stvlive.net:8080/rtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto
@@ -38,7 +38,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-name="SATV" tvg-logo="https://i.postimg.cc/Ss8dZ7pz/SA-TV.jpg" group-title="Bangladeshi Channels",SATV
 http://38.96.178.201/live/SATV/index.m3u8
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg" group-title="Bangladeshi Channels",Independent TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI6/independent-8-org.stream/playlist.m3u8
+http://peer19.roarzone.info:8080/roarzone/bk/12/tracks-v1a1/mono.m3u8?token=78b96975a25f29a55c5a4df3b0eb21349c55c7a5-5737a9d9e6e0296dea75e132b9778f6c-1751196602-1751185802
 #EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg" group-title="Bangladeshi Channels",Banglavision
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI6/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Kalkata Channel",Sangeet Bangla
