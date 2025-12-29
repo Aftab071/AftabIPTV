@@ -1,89 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Telegram" tvg-logo="" group-title="IPTV by Aftab",Telegram
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI6/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Live" tvg-logo="" group-title="Live Event",Sony Live
-https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/images_2.jpeg" group-title="Bangladeshi Channels",Desh TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI6/deshtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg" group-title="Bangladeshi Channels",Jamuna TV
-http://peer19.roarzone.info:8080/roarzone/bk/13/tracks-v1a1/mono.m3u8?token=8561c3b4b1669ad37e000284b3d38355bacefbf7-0df363eee07e118b2b0f6d5a2a600a37-1751194397-1751183597
-#EXTINF:-1 tvg-name="Atn Bangla" tvg-logo="https://i.ibb.co/F41Zgxyr/ATN-Bangla.jpg" group-title="Bangladeshi Channels",Atn Bangla
-http://peer19.roarzone.info:8080/roarzone/bk/2/tracks-v1a1/mono.m3u8?token=5ef4b2819670b2d4f78d7da3764f1e32d09e162b-41c77f5ce5377199e26f44967a0f5980-1751194500-1751183700
-#EXTINF:-1 tvg-name="Boishakhi" tvg-logo="https://i.postimg.cc/vBW8D5m8/Boiskakhi.jpg" group-title="Bangladeshi Channels",Boishakhi
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladeshi Channels",Channel I
-http://peer19.roarzone.info:8080/roarzone/bk/6/tracks-v1a1/mono.m3u8?token=bc17ce51f93555ba5bf0a6b0c2d3a1565725d976-bfa536b866f1d0626185d42664d59767-1751196320-1751185520
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladeshi Channels",DBC News
-http://peer19.roarzone.info:8080/roarzone/bk/7/tracks-v1a1/mono.m3u8?token=9ea9ba46038bc92875127ecb6fff1f530867020e-841b3d8d162224eb609ace8b3be83670-1751194588-1751183788
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/JzDLh7pB/Ekattor.jpg" group-title="Bangladeshi Channels",Ekattor TV
-http://peer19.roarzone.info:8080/roarzone/bk/11/tracks-v1a1/mono.m3u8?token=d4db89dd504ab70f9a40038ce5a969dd83a5b383-6e7ba5901c440670b0b68d9e4baf82e7-1751194613-1751183813
-#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg" group-title="Bangladeshi Channels",Maasranga
-http://peer19.roarzone.info:8080/roarzone/bk/51/tracks-v1a1/mono.m3u8?token=f199cfb98ea57d9777a709b61754e0b219accb9f-deabe2a0262dbccebc70e240e50f5f35-1751194637-1751183837
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg" group-title="Bangladeshi Channels",NTV
-http://peer19.roarzone.info:8080/roarzone/bk/54/tracks-v1a1/mono.m3u8?token=b2c1b1b5638624dd0b6d6f16e2b831a713f16ac0-2126a2c6cf196f97e806230335b26523-1751195957-1751185157
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="Bangladeshi Channels",RTV
-http://peer19.roarzone.info:8080/roarzone/bk/14/tracks-v1a1/mono.m3u8?token=0f1cf1d330f058094e8e64508451d3d4c91b1edf-0239b6465fb92ef1c1fc6de2de7c7f95-1751199339-1751188539
-#EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladeshi Channels",Deepto
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg" group-title="Bangladeshi Channels",GTV
-http://peer19.roarzone.info:8080/roarzone/bk/1/tracks-v1/index.fmp4.m3u8?token=dfeba524e1f03d15c538c4636ca83e3130322382-be27ba72878717ddccaa57d2b0e3787d-1751199379-1751188579
-#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg" group-title="Bangladeshi Channels",Ekhon TV
-http://38.96.178.201/live/EkhonTV/index.m3u8
-#EXTINF:-1 tvg-name="Ekushe ETV" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg" group-title="Bangladeshi Channels",Ekushe ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/prX6HQTh/Movie-Bangla.jpg" group-title="Bangladeshi Channels",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-name="My TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/my-tv.png" group-title="Bangladeshi Channels",My TV
-https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-name="SATV" tvg-logo="https://i.postimg.cc/Ss8dZ7pz/SA-TV.jpg" group-title="Bangladeshi Channels",SATV
-http://38.96.178.201/live/SATV/index.m3u8
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg" group-title="Bangladeshi Channels",Independent TV
-http://peer19.roarzone.info:8080/roarzone/bk/12/tracks-v1a1/mono.m3u8?token=78b96975a25f29a55c5a4df3b0eb21349c55c7a5-5737a9d9e6e0296dea75e132b9778f6c-1751196602-1751185802
-#EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg" group-title="Bangladeshi Channels",Banglavision
-http://peer19.roarzone.info:8080/roarzone/bk/3/tracks-v1a1/mono.m3u8?token=85d695ae57ee8ad139926c4ca068adc9456ec9ab-3d159bdb490a69f4a2d41439af504545-1751199469-1751188669
-#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Kalkata Channel",Sangeet Bangla
-http://stvlive.net:8080/sbangla/index.m3u8
-#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Kalkata Channel",Sony Aath
-http://peer19.roarzone.info:8080/roarzone/bk/33/tracks-v1a1/mono.m3u8?token=51a65c51d48737857dc175ad6743735c056dc00b-63cb970656bb80589dc57ea89ed96c58-1751199525-1751188725
-#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb20190806073703" group-title="Kalkata Channel",Jalsha Movies
-http://peer19.roarzone.info:8080/roarzone/bk/31/tracks-v1a1/mono.m3u8?token=b50a0f4e3f43bf46c5051ac988df1043d4ad3e79-e73164d2dbaa03686c3885d420144944-1751199584-1751188784
-#EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="Kalkata Channel",Me TV
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Kalkata Channel",Zee Bangla HD
-http://peer19.roarzone.info:8080/roarzone/bk/34/tracks-v1a1/mono.m3u8?token=05509ba406d0a1da0d4b84c6b981ac77445c6c53-3f017a721b41e4df719a3987f4792226-1751199647-1751188847
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="" group-title="Kalkata Channel",Star Jalsha HD
-http://peer19.roarzone.info:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=82d434bf2e4c4e72832b2d7c6836ca3c95f03236-c5b02a789e8f9deec682e1aeb0eb09b7-1751199750-1751188950
-#EXTINF:-1 tvg-name="Bangla+" tvg-logo="" group-title="Kalkata Channel",Bangla+
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="" group-title="Kalkata Channel",Sun Bangla
-https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Sanonda TV" tvg-logo="" group-title="Kalkata Channel",Sanonda TV
-https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Tsports" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="Sports Channel",Tsports
-http://peer19.roarzone.info:8080/roarzone/bk/102/tracks-v1a1/mono.m3u8?token=d2d3838b96f71053598ea924b6443250f3f167b1-177afb6658165d39d01166f9d55bc208-1751194165-1751183365
-#EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports Channel",Sony Sports 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports Channel",Sony Sports 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 3" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports Channel",Sony Sports 3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports Channel",Sony Sports 4
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports Channel",Sony Sports 5
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png" group-title="Sports Channel",Star Sports 1
-http://103.175.242.10:8080/starsports1/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png" group-title="Sports Channel",Star Sports 2
-http://103.175.242.10:8080/starsports2/index.m3u8
-#EXTINF:-1 tvg-name="And Picture" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png" group-title="Hindi Channel",And Picture
-http://103.175.242.10:8080/andpicture/index.m3u8
-#EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png" group-title="Hindi Channel",Colors HD
-http://stvlive.net:8080/colorshd/index.m3u8
-#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Hindi Channel",Sony Max
-http://stvlive.net:8080/sonymax/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png" group-title="Hindi Channel",Star Gold HD
-http://peer19.roarzone.info:8080/roarzone/bk/72/tracks-v1a1/mono.m3u8?token=7c724b4bd29ace79ddf873d6a88f15adbb072bfb-4401a6bb0d4b7162a81d10ed8f5cec8e-1751193159-1751182359
-#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel",Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-#EXTINF:-1 tvg-name="Sony HD" tvg-logo="" group-title="Hindi Channel",Sony HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+# ========== SPORTS ==========
+#EXTINF:-1 group-title="Sports", T Sports HD
+Http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="Sports", A Sports HD
+Http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 2 HD
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 group-title="Sports", DD Sports
+http://172.16.29.2:8090/hls/ddsports.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports Select 1 HD
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 5 HD
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 group-title="Sports", Willow Cricket HD
+http://172.16.29.2:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 1 HD
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 3 HD
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 group-title="Sports", Euro Sports HD
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports Select 2 HD
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 1 HD
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 group-title="Sports", Xtream Sports
+http://172.16.29.2:8090/hls/xtreamsports.m3u8
+#EXTINF:-1 group-title="Sports", World of Free Sports
+http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
+
+# ========== BANGLA ==========
+#EXTINF:-1 group-title="Bangla", Zee Bangla HD
+Http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 group-title="Bangla", Zee Bangla Cinema HD
+http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 group-title="Bangla", Colors Bangla HD
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="Bangla", Jamuna TV
+http://172.16.29.2:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 group-title="Bangla", Star Jalsha HD
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 group-title="Bangla", Jalsha Movies HD
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="Bangla", Somoy TV
+http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="Bangla", ATN News
+http://172.16.29.2:8090/hls/AtnNews.m3u8
+#EXTINF:-1 group-title="Bangla", Gazi TV HD
+http://172.16.29.2:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 group-title="Bangla", Channel i HD
+http://172.16.29.2:8090/hls/channelihd.m3u8
+#EXTINF:-1 group-title="Bangla", Enter10 Bangla
+http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
+
+# ========== HINDI ==========
+#EXTINF:-1 group-title="Hindi", Sony Max HD
+Http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="Hindi", Star Plus HD
+http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 group-title="Hindi", Zee TV HD
+http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 group-title="Hindi", Colors HD
+http://172.16.29.2:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 group-title="Hindi", Sony Aath
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="Hindi", Sony TV HD
+http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="Hindi", Zee Cinema HD
+http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 group-title="Hindi", Star Gold HD
+http://172.16.29.2:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 group-title="Hindi", Star Movies HD
+http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="Hindi", Colors Cineplex HD
+Http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
+
+# ========== MUSIC ==========
+#EXTINF:-1 group-title="Music", Sangeet Bangla
+Http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+
