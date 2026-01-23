@@ -1,6 +1,12 @@
 #EXTM3U
 
 # ========== SPORTS ==========
+#EXTINF:-1 group-title="Sports", Fox 501
+Http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
+#EXTINF:-1 group-title="Sports", PTV Sports
+Http://163.61.227.29:8000/play/a05l/24472103.m3u8
+#EXTINF:-1 group-title="Sports", FanCode BD
+Https://bd-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/1080p5.m3u8
 #EXTINF:-1 group-title="Sports", T Sports HD
 Http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports", A Sports HD
@@ -31,6 +37,24 @@ http://172.16.29.2:8090/hls/xtreamsports.m3u8
 http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8
 
 # ========== BANGLA ==========
+#EXTINF:-1 group-title="Bangla", News 24
+Https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", DBC NEWS
+Https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", Ekhon TV
+Https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", Deepto TV
+Https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Bangla", ATN News
+Https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1998800.m3u8
+#EXTINF:-1 group-title="Bangla", Banglavision
+Https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1998800.m3u8
+#EXTINF:-1 group-title="Bangla", Independent TV
+Https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Bangla", Nagorik TV
+https://livetvpro.vercel.app/api/m3u8-proxy?url=http%3A%2F%2F116.204.149.16%2Fnagorik%2Ftracks-v1a1%2Fmono.m3u8&headers=%7B%7D
+#EXTINF:-1 group-title="Bangla", Somoy TV
+Https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
 #EXTINF:-1 group-title="Bangla", Zee Bangla HD
 Http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 group-title="Bangla", Zee Bangla Cinema HD
@@ -43,10 +67,6 @@ http://172.16.29.2:8090/hls/JamunaTV.m3u8
 http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="Bangla", Jalsha Movies HD
 http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 group-title="Bangla", Somoy TV
-http://172.16.29.2:8090/hls/somoytv.m3u8
-#EXTINF:-1 group-title="Bangla", ATN News
-http://172.16.29.2:8090/hls/AtnNews.m3u8
 #EXTINF:-1 group-title="Bangla", Gazi TV HD
 http://172.16.29.2:8090/hls/gazitvhd.m3u8
 #EXTINF:-1 group-title="Bangla", Channel i HD
@@ -55,6 +75,8 @@ http://172.16.29.2:8090/hls/channelihd.m3u8
 http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
 
 # ========== HINDI ==========
+#EXTINF:-1 group-title="Hindi", Goldmine
+Https://cdn-2.pishow.tv/live/1459/1459_1.m3u8
 #EXTINF:-1 group-title="Hindi", Sony Max HD
 Http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 group-title="Hindi", Star Plus HD
@@ -79,4 +101,3 @@ Http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
 # ========== MUSIC ==========
 #EXTINF:-1 group-title="Music", Sangeet Bangla
 Http://172.16.29.2:8090/hls/SangeetBangla.m3u8
-
