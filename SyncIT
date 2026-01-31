@@ -91,7 +91,7 @@ http://172.16.29.2:8090/hls/SonyAtth.m3u8
 http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 group-title="Hindi", Zee Cinema HD
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
-#EXTINF:-1 group-title="Hindi", Star Gold HD
+#EXTINF:-1 group-title="Hindi", Star Gold Select HD
 http://172.16.29.2:8090/hls/StarGoldHD.m3u8
 #EXTINF:-1 group-title="Hindi", Star Movies HD
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
